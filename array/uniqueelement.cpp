@@ -14,3 +14,17 @@ int main(){
 
     cout<<"uinque element is the arreay is" << findUnique(arr,size) <<endl;
 }
+
+
+
+// ans = 0 ^ 2 = 2
+// ans = 2 ^ 3 = 1
+// ans = 1 ^ 2 = 3
+// ans = 3 ^ 3 = 0
+// ans = 0 ^ 4 = 4
+// ans = 4 ^ 4 = 0
+// ans = 0 ^ 5 = 5
+// ans = 5 ^ 6 = 3
+// ans = 3 ^ 5 = 6
+// ans = 6 ^ 6 = 0
+// ans = 0 ^ 8 = 8
